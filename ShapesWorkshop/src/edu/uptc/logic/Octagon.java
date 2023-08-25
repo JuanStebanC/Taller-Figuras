@@ -39,9 +39,10 @@ public class Octagon extends Figure{
 
 
 	@Override
-	public void changeSize(int size) {
-		// TODO Auto-generated method stub
-		
+	public void changeSize(int newSize) {
+		erase();
+        size = newSize;
+        draw();
 	}
 
 	@Override
