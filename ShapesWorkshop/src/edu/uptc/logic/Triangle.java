@@ -54,15 +54,9 @@ public class Triangle extends Figure
     }
 
     @Override
-    public void changeSize(int size) {
-        // TODO Auto-generated method stub
+    public void changeSize(int size) {        
         
     }
-
-
-   
-
-
-    
+  
 }
 

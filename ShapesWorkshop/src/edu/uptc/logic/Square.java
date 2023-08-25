@@ -38,7 +38,7 @@ public class Square extends Figure
 
     @Override
     public void changeSize(int newWidth, int newHeight) {
-        // TODO Auto-generated method stub
+        
         
     }
 

@@ -49,10 +49,8 @@ public class Circle extends Figure
                     diameter, diameter));
             canvas.wait(10);
         }
-        
-    }
 
-        
+    } 
 
 }
 
